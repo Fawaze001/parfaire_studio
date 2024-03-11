@@ -29,7 +29,7 @@
                             <li><a href="#">BOUTIQUE</a></li>
                             <li><a href="#">A PROPOS</a></li>
                             <li><a href="#">CONTACT</a></li>
-                            <li class="mx-4"><a href="#"><img src="assets/img/presta/Ellipse-1.png" alt="" srcset="" style="height: 25px;"></a></li>
+                            <li class="mx-4"><a href="#"><img src="assets\img\ellipse.png" alt="" srcset="" style="height: 25px;"></a></li>
                         </ul>
                     </nav>
                 </div>

@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="offset-1 col-md-4 py-4 col-sm-12">
-            <img src="assets/img/presta/picto.png" alt="" srcset="" class="img-fluid w-50">
+            <img src="assets/img/picto.png" alt="" srcset="" class="img-fluid w-50">
         </div>
         <div class="col-md-3 col-sm-12 d-block">
             <div class="mt-4">
