@@ -1,0 +1,508 @@
+.header_titre {
+    font-size: 45px;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: calibri;
+    font-weight: bold;
+    opacity: 0.6;
+    margin-bottom: -1rem !important;
+}
+
+.header {
+    top: 0px;
+    left: 0px;
+    /* width: 1920px; */
+    /* height: 150px; */
+    opacity: 1;
+    background-image: url('../img/presta/Rectangle112.png');
+}
+
+.sous-titre ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.sous-titre li {
+    margin: 0 10px;
+}
+
+.sous-titre a {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: calibri;
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 25px;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: calibri;
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+
+.footer-row {
+    background-image: url('../img/presta/Trace60.png');
+    height: 30px;
+}
+
+.footer-mindle {
+    background-image: url('../img/presta/Rectangle53.png');
+    /* height: 250px; */
+}
+
+.footer-titre {
+    text-align: center;
+    letter-spacing: 0px;
+    color: #1D0E03;
+    opacity: 1;
+
+    font-size: 45px;
+    font-family: calibri;
+    font-weight: bold;
+    margin-bottom: -1rem !important;
+}
+
+.footer-sous-titre {
+
+    text-align: left;
+    letter-spacing: 0px;
+    color: #1D0E03;
+    text-transform: uppercase;
+    opacity: 1;
+
+    font-size: 20px;
+    font-family: calibri;
+    font-weight: bold;
+}
+
+.line {
+    border: 1px solid #1D0E03;
+    opacity: 1;
+    /* width: 15rem; */
+}
+
+
+
+.footer-link1 ul {
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.footer-link1 li {
+    margin: 0 10px;
+}
+
+.footer-link1 a {
+    letter-spacing: 0px;
+    color: #1D0E03;
+    text-transform: uppercase;
+    opacity: 1;
+
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    font-family: calibri;
+}
+
+.footer-titre-right {
+    text-align: center;
+    letter-spacing: 0px;
+    color: #1D0E03;
+    opacity: 1;
+    font-size: 30px;
+    font-family: calibri;
+}
+
+.last-row {
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FAECE1;
+    opacity: 1;
+    font-size: 20px;
+    font-family: calibri;
+}
+
+.last-section {
+    background-image: url('../img/presta/fond-1.png');
+    height: 100%;
+    width: 100%;
+}
+
+.last-section h1 {
+    padding-top: 20rem;
+    text-align: center;
+    font: normal normal bold 60px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 1;
+}
+
+/*Sabin's style*/
+
+.petetit_espace {
+    height: 40px;
+    background: #FAECE1 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+
+.rectangle {
+    background: #001A3B 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+
+}
+
+.textgift {
+    font: normal normal bold 40px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 0.4;
+}
+
+.align_text p {
+    font: normal normal bold 30px Calibri;
+    letter-spacing: 0px;
+    color: #FAECE1;
+    opacity: 1;
+    margin: 2rem;
+}
+
+.image {
+
+    opacity: 1;
+    margin-top: -15rem;
+    margin-left: -6rem;
+    margin-bottom: -20rem;
+}
+
+
+.rectangle #doublesan {
+    text-align: center;
+    font: normal normal bold 40px/49px Calibri;
+    letter-spacing: 0px;
+    color: #FAECE1;
+    opacity: 1;
+}
+
+/*Sabin's style*/
+
+/* valentin's style */
+
+.banner {
+    height: 1000px;
+    background-image: url('../img/presta/IMG_1001.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1;
+    position: relative;
+}
+
+.tres1 {
+    border: solid 0.1px #001A3B;
+    margin-right: 51%;
+    margin-left: 22%;
+    width: 13rem;
+}
+
+.tres2 {
+    border: solid 0.1px #001A3B;
+    margin-right: 51%;
+    margin-left: 26%;
+    width: 10rem;
+    margin-top: -0.6rem;
+}
+
+.tres3 {
+    border: solid 0.1px #001A3B;
+    margin-right: 62%;
+    margin-left: 32%;
+    width: 6rem;
+    margin-top: -0.6rem;
+}
+
+.col-5 {
+    margin-top: 7%;
+}
+
+.titre {
+    margin-top: 16%;
+    text-transform: uppercase;
+    font-size: 125px;
+    font-family: calibri;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #001A3B;
+    position: relative;
+    opacity: 1;
+}
+
+
+
+.farç {
+    margin-left: 18%;
+    margin-top: 0px;
+    text-transform: uppercase;
+    font-size: 23px;
+    font-family: calibri;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #001A3B;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.harpon {
+    margin-top: 80px;
+}
+
+.btn-style {
+    font: normal normal bold 35px/42px Calibri;
+    letter-spacing: 0px;
+    color: #FAECE1;
+    text-transform: uppercase;
+    opacity: 1;
+    background: #001A3B;
+    padding: 10px 30px 10px 30px;
+}
+
+.section1 {
+    background: url('../img/presta/fond1.png');
+    opacity: 1;
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 18rem;
+}
+
+.photo {
+    text-align: center;
+    font: normal normal bold 70px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 1;
+}
+
+.liste {
+    text-align: center;
+    font: normal normal bold 50px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 0.4;
+    margin-top: -40px;
+}
+
+.faq {
+    text-align: center;
+    font: normal normal bold 70px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 1;
+}
+
+.liste1 {
+    text-align: center;
+    font: normal normal bold 50px Calibri;
+    letter-spacing: 0px;
+    color: #FFF8F8;
+    opacity: 0.4;
+    margin-top: -40px;
+}
+
+.fichep {
+    font: normal normal bold 30px Calibri;
+    color: #FAECE1;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-left: 40%;
+    background: #00142d;
+    text-decoration: none;
+    border-radius: 7px;
+    margin-top: 50px;
+    padding: 5px 35px 5px 35px;
+}
+
+.titre1 {
+    margin-top: 40px;
+    text-align: center;
+    font: normal normal bold 100px/24px Calibri;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+
+}
+
+.by {
+    text-align: center;
+    font: normal normal bold 20px/25px Calibri;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-left: 38%;
+}
+
+.faç1 {
+    text-align: center;
+    font: normal normal bold 23px/30px Calibri;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    margin-top: 30px;
+    margin-left: 10%;
+}
+
+/* valentin's style */
+
+
+/*Responsive styles*/
+
+@media screen and (max-width: 600px) {
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul {
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+
+    .titre {
+        margin-top: 16%;
+        text-transform: uppercase;
+        font-size: 50px;
+        font-family: calibri;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #001A3B;
+        position: relative;
+        opacity: 1;
+    }
+
+    .multi-line {
+        margin-left: auto;
+    }
+
+    .farç {
+        margin-left: 0%;
+        margin-top: -20px;
+        text-align: center;
+        font-size: 23px;
+        font-family: calibri;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #001A3B;
+        text-transform: uppercase;
+        opacity: 1;
+    }
+
+    .align_text p {
+        font-family: calibri;
+        font-weight: bold;
+        letter-spacing: 0px;
+        color: #FAECE1;
+        opacity: 1;
+        font-size: 10px;
+        margin: 0;
+    }
+
+    .first-title {
+        text-align: center;
+    }
+
+
+    .tres1 {
+        border: solid 0.1px #001A3B;
+        margin-right: 51%;
+        margin-left: 24%;
+        width: 13rem;
+    }
+
+    .tres2 {
+        border: solid 0.1px #001A3B;
+        margin-right: 51%;
+        margin-left: 30%;
+        width: 10rem;
+        margin-top: -0.6rem;
+    }
+
+    .tres3 {
+        border: solid 0.1px #001A3B;
+        margin-right: 62%;
+        margin-left: 35%;
+        width: 8rem;
+        margin-top: -0.6rem;
+    }
+
+    .btn-style {
+        font: normal normal bold 15px Calibri;
+        letter-spacing: 0px;
+        color: #FAECE1;
+        text-transform: uppercase;
+        opacity: 1;
+        background: #001A3B;
+        padding: 10px 30px 10px 30px;
+        margin-left: 5rem;
+    }
+
+    .harpon {
+        margin-top: 50px;
+    }
+
+    .banner {
+        height: 450px;
+    }
+
+    .image {
+
+        opacity: 1;
+        margin-top: -15rem;
+        margin-left: -6rem;
+    }
+}
+
+/*Responsive styles*/
