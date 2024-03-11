@@ -14,7 +14,7 @@
     /* width: 1920px; */
     /* height: 150px; */
     opacity: 1;
-    background-image: url('../img/presta/Rectangle112.png');
+    background-image: url('../img/Rectangle112.png');
 }
 
 .sous-titre ul {
@@ -72,12 +72,12 @@ nav a {
 
 
 .footer-row {
-    background-image: url('../img/presta/Trace60.png');
+    background-image: url('../img/Trace60.png');
     height: 30px;
 }
 
 .footer-mindle {
-    background-image: url('../img/presta/Rectangle53.png');
+    background-image: url('../img/Rectangle53.png');
     /* height: 250px; */
 }
 
