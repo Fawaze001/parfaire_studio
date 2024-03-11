@@ -559,7 +559,7 @@ nav a {
 }
 .first-title1 {
     text-align: center;
-    margin-left: -80rem;
+    margin-left: -63rem;
 }
 
 
@@ -593,9 +593,18 @@ nav a {
     padding: 10px 30px 10px 30px;
 }
 /*Style page2 deuxieme setion*/
+
+.image1 {
+
+    opacity: 1;
+    margin-top: -10rem;
+    margin-left: -6rem;
+    margin-bottom: -20rem;
+}
+
 .textgift1{
-    margin-left: -5rem;
-    margin-top: -17rem;
+    margin-left: 5rem;
+    margin-top: -4rem;
     font: normal normal bold 60px/7px Calibri;
     letter-spacing: 0px;
     color: #FFF8F8;
@@ -603,7 +612,7 @@ nav a {
 
 }
 .textnextgift{
-    margin-top: -7rem;
+    margin-top: 3rem;
     text-align: center;
     font: normal normal bold 40px/49px Calibri;
     letter-spacing: 0px;

@@ -52,7 +52,7 @@
 
     <div class="row py-4 mx-4">
         <div class="col-md-12 col-sm-12 text-center">
-            <img width="" src="assets\img\emotion.png" alt="Pretention" class="img-fluid mx-4 px-4 image">
+            <img width="" src="assets\img\emotion.png" alt="Pretention" class="img-fluid mx-4 px-4 image1">
             
         </div>
     </div>
