@@ -33,7 +33,7 @@
 <section class="rectangle container-fluid">
     <div class="row">
         <div class="col-md-12 col-sm-12 text-center">
-            <img class="img-fluid w-50" src="assets\img\presta\PRETENTIONBY PARFAIRE STUDIO.png" id="image" alt="Pretention">
+            <img class="img-fluid w-50" src="assets\img\pretentionby.png" id="image" alt="Pretention">
         </div>
     </div>
 
@@ -56,7 +56,7 @@
 
     <div class="row py-4 mx-4">
         <div class="col-md-12 col-sm-12 text-center">
-            <img width="" src="assets\img\presta\PRETENTION.png" alt="Pretention" class="img-fluid mx-4 px-4 image">
+            <img width="" src="assets\img\pretention.png" alt="Pretention" class="img-fluid mx-4 px-4 image">
             <p class="textgift">/ GIFT SPLINE /</p>
         </div>
     </div>

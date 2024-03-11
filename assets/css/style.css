@@ -228,7 +228,7 @@ nav a {
 
 .banner {
     height: 1000px;
-    background-image: url('../img/presta/IMG_1001.png');
+    background-image: url('../img/IMG_1001.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -305,7 +305,7 @@ nav a {
 }
 
 .section1 {
-    background: url('../img/presta/fond1.png');
+    background: url('../img/fond1.png');
     opacity: 1;
     height: 1000px;
     background-size: cover;
